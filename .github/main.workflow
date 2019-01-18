@@ -1,4 +1,4 @@
-workflow "New workflow" {
+workflow "gitleak" {
   on = "push"
   resolves = ["rprakashg/actions"]
 }
