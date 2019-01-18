@@ -4,5 +4,5 @@ workflow "New workflow" {
 }
 
 action "rprakashg/actions" {
-  uses = "rprakashg/actions/gitleak"
+  uses = "rprakashg/actions@master/gitleak"
 }
